@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage  = 'https://github.com/mattt/FormatterKit'
   s.social_media_url = 'https://twitter.com/mattt'
   s.author    = { 'Mattt Thompson' => 'm@mattt.me' }
-  s.source    = { :git => 'https://github.com/mattt/FormatterKit.git',
+  s.source    = { :git => 'https://github.com/TippingCanoe/FormatterKit.git',
                   :tag => s.version
                 }
 
